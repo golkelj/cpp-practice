@@ -1,0 +1,27 @@
+{
+  "task": "Write a personalized email to a professor about research interest",
+  "student": {
+    "name": "Jaden Goelkel",
+    "year": "second year",
+    "major": "Data Science",
+    "graduation_year": "2027",
+    "background": [
+        "Self starter", 
+        "started a data engineering company in high school serving a manufacturing client developing systems for pricing analysis",
+        "teaching myself cpp and systems programming",
+        "pivoting from high level data workflows into systems research"
+    ]
+  },
+  "writing_style": {
+    "Keep_it_Short": "150–200 words max. Professors are busy — they’ll skim.",
+    "Mix_Sentence_Lengths": "Alternate between short, direct sentences and slightly longer, more thoughtful ones. This creates a natural rhythm.",
+    "Lead_with_Interest_Not_Credentials": "Show you’ve actually read their work — mention one project/paper/course you liked and why it caught your attention.",
+    "Drop_Credentials_Casually": "Slip in your experience naturally (e.g., 'In high school, I started a data engineering company…') instead of making a brag list.",
+    "Sound_Curious_Not_Desperate": "Frame it like you’re interested in learning, not begging for a position.",
+    "End_with_a_Low_Pressure_Ask": "Instead of 'Can I join your lab?' try 'I’d love to hear if you think there might be opportunities to get involved.'",
+    "Tone": "Polished but Conversational. Think 'professional but human' — like you’re talking to a respected mentor, not a recruiter."
+    },
+
+    "professor context":""
+
+} 
