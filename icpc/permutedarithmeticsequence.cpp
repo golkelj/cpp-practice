@@ -7,17 +7,17 @@ int main(){
     int c;
    
     std::cin >> a;
-    for (int i = 0; i < a; i++ ) { 
+    for (int i = 0; i < a; i++ ){ 
         std::cin >> b;
         std::vector<int> d(b);
-        for (int j = 0; j < b ; j++) { 
+        for (int j = 0; j < b ; j++){ 
             std::cin >> c; 
             d[j] = c; 
         }
         // check if this is arithmetic (assume True first)
         int arith = d[1] - d[0];
         bool isArith = true;
-        for (int k = 1; k < b - 1; k++) { 
+        for (int k = 1; k < b - 1; k++){ 
             if(d[k+1] - d[k] != arith){
                 // if not arithmetic, move on
                 isArith = false;
