@@ -51,10 +51,7 @@ int main(){
                 break;
             }
         }
-
         std::cout << (possible ? "YES\n" : "NO\n");
-
-
     }
     return 0; 
 }
